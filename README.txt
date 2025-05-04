@@ -1,5 +1,12 @@
 Adam's ArcGIS Tools
 
+NOTE: I developed this package several years ago. I am no longer actively involved in primatology research and am no longer updating this work. 
+
+These tools are discussed in my book chapter:
+Bebko, A.O., (2021) Determining the presence of habitual travel route networks in orangutans (Pongo pygmaeus morio) in Kutai National Park, Borneo. 
+In: Spatial Analysis in Field Primatology. Eds: Dolins, F.L., Shaffer, C.A., Porter, L.M., Hickey, J.R., & Nibbelink, N.P.. Cambridge University Press
+
+
 -- ATTRIBUTION --
 Please cite my PHD dissertation:
 https://yorkspace.library.yorku.ca/xmlui/handle/10315/35885?show=full
@@ -42,26 +49,26 @@ This suite of tools aids in general analysis and management of animal travel rou
 --
 
 
-All tools ©2018 Adam O. Bebko
+All tools Â©2018 Adam O. Bebko
 
 This work is licensed under:
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
 
 You are free to:
-	Share— copy and redistribute the material in any medium or format
-	Adapt— remix, transform, and build upon the materialThe licensor 
+	Shareâ€” copy and redistribute the material in any medium or format
+	Adaptâ€” remix, transform, and build upon the materialThe licensor 
 		cannot revoke these freedoms as long as you follow the license terms.
 
 Under the following terms:
 
-	Attribution — You must give appropriate credit, provide a link to the license, 
+	Attribution â€” You must give appropriate credit, provide a link to the license, 
 		and indicate if changes were made. You may do so in any reasonable manner, 
 		but not in any way that suggests the licensor endorses you or your use.
-	NonCommercial — You may not use the material for commercial purposes.
-	ShareAlike — If you remix, transform, or build upon the material, you must distribute 
+	NonCommercial â€” You may not use the material for commercial purposes.
+	ShareAlike â€” If you remix, transform, or build upon the material, you must distribute 
 		your contributions under the same license as the original.No additional 
-		restrictions — You may not apply legal terms or technological measures that 
+		restrictions â€” You may not apply legal terms or technological measures that 
 		legally restrict others from doing anything the license permits.
 
 If you would like to use this material in a commercial setting please contact the author for permission.
