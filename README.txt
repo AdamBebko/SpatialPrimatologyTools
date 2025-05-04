@@ -15,7 +15,7 @@ Contact me for commercial use (see below)
 
 -- INSTALL --
 
-See releases section for an exe intaller.
+See releases section for an exe intaller. https://github.com/AdamBebko/SpatialPrimatologyTools/releases 
 
 This will install geoprocessing tools into your ArcGIS python's site-packages folder. 
 For ArcGIS Desktop v10.6, it can be found under 
