@@ -15,6 +15,8 @@ Contact me for commercial use (see below)
 
 -- INSTALL --
 
+See releases section for an exe intaller.
+
 This will install geoprocessing tools into your ArcGIS python's site-packages folder. 
 For ArcGIS Desktop v10.6, it can be found under 
 	C:\Python27\ArcGIS10.6\Lib\site-packages in a folder called adamstools.
